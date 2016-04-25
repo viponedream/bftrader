@@ -2,7 +2,7 @@ TEMPLATE = subdirs
 
 SUBDIRS = \
     ctpgateway \
-    ctpengine \
+    ctaengine \
     datafeed \
     assist \
     tools
